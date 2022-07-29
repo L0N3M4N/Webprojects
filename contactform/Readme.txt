@@ -1,2 +1,6 @@
-Fully working PHP/AJAX contact form is available in the pro version.
-You can buy it from: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+ version: 1.2 
+  updated: 7/29/2022
+  author name: DevAldrin
+  bugs:
+  other:
+  notes:
